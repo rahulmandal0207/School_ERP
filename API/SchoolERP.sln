@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolERP", "SchoolERP\SchoolERP.csproj", "{4DA8D9CF-37EB-4BE9-A404-CDFAF211071C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolClasses", "SchoolClasses\SchoolClasses.csproj", "{8A3D1FCB-695F-4EAA-9ECA-0D331EE83B47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DA8D9CF-37EB-4BE9-A404-CDFAF211071C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DA8D9CF-37EB-4BE9-A404-CDFAF211071C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DA8D9CF-37EB-4BE9-A404-CDFAF211071C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DA8D9CF-37EB-4BE9-A404-CDFAF211071C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A3D1FCB-695F-4EAA-9ECA-0D331EE83B47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A3D1FCB-695F-4EAA-9ECA-0D331EE83B47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A3D1FCB-695F-4EAA-9ECA-0D331EE83B47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A3D1FCB-695F-4EAA-9ECA-0D331EE83B47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75A065C6-8A82-4B04-9304-152DCC0B9B83}
+	EndGlobalSection
+EndGlobal
